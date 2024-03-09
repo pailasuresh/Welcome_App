@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  min-height: 100vh;
+}
+
+.head {
+  font-family: Bree Serif;
+  font-size: 46px;
+  font-weight: bold;
+  color: #f0bb03;
+}
+.para {
+  font-family: Bree serif;
+  color: white;
+  font-weight: bold;
+  font-size: 28px;
+}
+button {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  font-family: Bree serif;
+  font-size: 20px;
+  padding: 14px;
+  border-radius: 10px;
+}
+
